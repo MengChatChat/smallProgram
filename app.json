@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/classic/classic"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#ffff00",
+    "navigationBarTitleText": "程序员云杉",
+    "navigationBarTextStyle": "black",
+    "backgroundColor":"#fff",
+    "enablePullDownRefresh":false
+  }
+}
